@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 [{"title":"Test Title","text":"Test text"},{"title":"Tlwekerstf","text":"alsfklksafdlkfd","id":7823}]
+=======
+[
+    {
+        "title":"Test Title",
+        "text":"Test text"
+    }
+]
+>>>>>>> 8b2cb03b5448f395c24caa6a76dc4962522e245d
